@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/shrikrishnan/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrikrishnan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/shrikrishnan/leetcode/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/Shrikrishnan/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shrikrishnan/lee-code/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/shrikrishnan/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/shrikrishnan/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shrikrishnan/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shrikrishnan/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Shrikrishnan/leetcode/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shrikrishnan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/shrikrishnan/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
