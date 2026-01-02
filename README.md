@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/shrikrishnan/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shrikrishnan/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/shrikrishnan/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shrikrishnan/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shrikrishnan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shrikrishnan/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/shrikrishnan/leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/shrikrishnan/leetcode/tree/master/0037-sudoku-solver) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Shrikrishnan/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shrikrishnan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
