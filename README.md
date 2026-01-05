@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/shrikrishnan/leetcode/tree/master/0010-regular-expression-matching) |
 | [0368-largest-divisible-subset](https://github.com/shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/shrikrishnan/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Shrikrishnan/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/shrikrishnan/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shrikrishnan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shrikrishnan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
