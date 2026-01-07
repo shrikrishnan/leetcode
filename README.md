@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shrikrishnan/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrikrishnan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/shrikrishnan/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/shrikrishnan/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shrikrishnan/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/shrikrishnan/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrikrishnan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shrikrishnan/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/shrikrishnan/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shrikrishnan/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrikrishnan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Database
 |  |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/shrikrishnan/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/shrikrishnan/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shrikrishnan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/shrikrishnan/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Prefix Sum
