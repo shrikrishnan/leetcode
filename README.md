@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/shrikrishnan/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shrikrishnan/lee-code/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/shrikrishnan/leetcode/tree/master/0038-count-and-say) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shrikrishnan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/shrikrishnan/leetcode/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shrikrishnan/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/shrikrishnan/leetcode/tree/master/0010-regular-expression-matching) |
 | [0368-largest-divisible-subset](https://github.com/shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/shrikrishnan/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shrikrishnan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Shrikrishnan/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Shrikrishnan/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/shrikrishnan/leetcode/tree/master/2262-solving-questions-with-brainpower) |
