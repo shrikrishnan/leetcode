@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrikrishnan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/shrikrishnan/leetcode/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/Shrikrishnan/leetcode/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/Shrikrishnan/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/shrikrishnan/lee-code/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/shrikrishnan/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shrikrishnan/leetcode/tree/master/0010-regular-expression-matching) |
+| [0085-maximal-rectangle](https://github.com/Shrikrishnan/leetcode/tree/master/0085-maximal-rectangle) |
 | [0368-largest-divisible-subset](https://github.com/shrikrishnan/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/shrikrishnan/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shrikrishnan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shrikrishnan/leetcode/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/Shrikrishnan/leetcode/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/shrikrishnan/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shrikrishnan/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/shrikrishnan/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -409,4 +412,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shrikrishnan/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Shrikrishnan/leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Shrikrishnan/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
