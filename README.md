@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Shrikrishnan/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3454-separate-squares-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shrikrishnan/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shrikrishnan/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shrikrishnan/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shrikrishnan/leetcode/tree/master/0002-add-two-numbers) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/shrikrishnan/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shrikrishnan/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/shrikrishnan/leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shrikrishnan/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/shrikrishnan/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -314,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/shrikrishnan/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/shrikrishnan/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/shrikrishnan/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -399,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/shrikrishnan/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/shrikrishnan/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -421,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shrikrishnan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/shrikrishnan/leetcode/tree/master/3336-water-bottles-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shrikrishnan/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Game Theory
 |  |
@@ -451,4 +457,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
