@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2626-count-the-number-of-good-subarrays](https://github.com/shrikrishnan/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shrikrishnan/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shrikrishnan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2751-robot-collisions](https://github.com/Shrikrishnan/leetcode/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shrikrishnan/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Shrikrishnan/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shrikrishnan/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shrikrishnan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shrikrishnan/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shrikrishnan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2751-robot-collisions](https://github.com/Shrikrishnan/leetcode/tree/master/2751-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/shrikrishnan/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Shrikrishnan/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shrikrishnan/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shrikrishnan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2751-robot-collisions](https://github.com/Shrikrishnan/leetcode/tree/master/2751-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/shrikrishnan/leetcode/tree/master/3336-water-bottles-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shrikrishnan/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -452,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Shrikrishnan/leetcode/tree/master/0085-maximal-rectangle) |
+| [2751-robot-collisions](https://github.com/Shrikrishnan/leetcode/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
 | ------- |
