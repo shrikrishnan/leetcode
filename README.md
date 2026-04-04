@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shrikrishnan/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shrikrishnan/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/shrikrishnan/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Shrikrishnan/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/shrikrishnan/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/shrikrishnan/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shrikrishnan/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shrikrishnan/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shrikrishnan/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Shrikrishnan/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/shrikrishnan/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Tree
 |  |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/shrikrishnan/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shrikrishnan/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Shrikrishnan/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shrikrishnan/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String Matching
 |  |
@@ -390,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3453-separate-squares-i](https://github.com/Shrikrishnan/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shrikrishnan/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Shrikrishnan/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
