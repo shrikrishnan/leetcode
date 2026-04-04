@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shrikrishnan/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shrikrishnan/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shrikrishnan/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Shrikrishnan/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Shrikrishnan/leetcode/tree/master/3454-separate-squares-ii) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shrikrishnan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shrikrishnan/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shrikrishnan/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shrikrishnan/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shrikrishnan/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shrikrishnan/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String Matching
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-maximum-matrix-sum](https://github.com/Shrikrishnan/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/shrikrishnan/leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shrikrishnan/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Shrikrishnan/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3748-sort-matrix-by-diagonals](https://github.com/shrikrishnan/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Shortest Path
 |  |
