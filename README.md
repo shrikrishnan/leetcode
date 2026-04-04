@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/shrikrishnan/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shrikrishnan/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shrikrishnan/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Shrikrishnan/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2429-design-a-food-rating-system](https://github.com/shrikrishnan/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2465-shifting-letters-ii](https://github.com/shrikrishnan/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shrikrishnan/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Shrikrishnan/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shrikrishnan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2751-robot-collisions](https://github.com/Shrikrishnan/leetcode/tree/master/2751-robot-collisions) |
 | [3336-water-bottles-ii](https://github.com/shrikrishnan/leetcode/tree/master/3336-water-bottles-ii) |
