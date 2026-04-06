@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/shrikrishnan/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shrikrishnan/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/shrikrishnan/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0874-walking-robot-simulation](https://github.com/Shrikrishnan/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shrikrishnan/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Shrikrishnan/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/shrikrishnan/leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/shrikrishnan/leetcode/tree/master/0037-sudoku-solver) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Shrikrishnan/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Shrikrishnan/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shrikrishnan/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shrikrishnan/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Shrikrishnan/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Shrikrishnan/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shrikrishnan/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shrikrishnan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2751-robot-collisions](https://github.com/Shrikrishnan/leetcode/tree/master/2751-robot-collisions) |
