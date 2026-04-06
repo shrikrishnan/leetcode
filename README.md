@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/shrikrishnan/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shrikrishnan/lee-code/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/shrikrishnan/leetcode/tree/master/0038-count-and-say) |
+| [0657-robot-return-to-origin](https://github.com/Shrikrishnan/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Shrikrishnan/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/shrikrishnan/leetcode/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/shrikrishnan/leetcode/tree/master/1006-vowel-spellchecker) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Shrikrishnan/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shrikrishnan/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shrikrishnan/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2751-robot-collisions](https://github.com/Shrikrishnan/leetcode/tree/master/2751-robot-collisions) |
